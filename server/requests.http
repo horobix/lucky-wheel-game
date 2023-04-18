@@ -1,0 +1,16 @@
+POST http://localhost:3000/api/v1/players
+Content-Type: application/json
+
+{
+     "name": "Tri",
+     "age": 20
+}
+
+###
+
+PATCH http://localhost:3000/api/v1/players/2
+Content-Type: application/json
+
+{
+    "hasWon": "true"
+}

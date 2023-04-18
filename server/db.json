@@ -1,0 +1,44 @@
+{
+  "players": [
+    {
+      "fullName": "Hữu Trí",
+      "phoneNumber": "1234567890",
+      "hasWon": true,
+      "createdAt": 1679827678246,
+      "updatedAt": 1679830818604,
+      "id": 1
+    },
+    {
+      "fullName": "Hữu Tài",
+      "phoneNumber": "1234567890",
+      "hasWon": true,
+      "createdAt": 1679827778508,
+      "updatedAt": 1681798091537,
+      "id": 2
+    },
+    {
+      "fullName": "Văn A",
+      "phoneNumber": "1234567890",
+      "hasWon": true,
+      "createdAt": 1679830784308,
+      "updatedAt": 1679830836539,
+      "id": 3
+    },
+    {
+      "fullName": "Văn B",
+      "phoneNumber": "1234567890",
+      "hasWon": true,
+      "createdAt": 1679830802687,
+      "updatedAt": 1679830855518,
+      "id": 4
+    },
+    {
+      "fullName": "asf",
+      "phoneNumber": "12123",
+      "hasWon": false,
+      "createdAt": 1681798086458,
+      "updatedAt": 1681798086458,
+      "id": 5
+    }
+  ]
+}
